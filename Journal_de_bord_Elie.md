@@ -7,5 +7,5 @@ création planning </br>
   - [x] connexion du BOT au SERVER : ok :heavy_check_mark:</br>
   - [x] Niveau du dévleppement du squelette : 50%</br>
   - [x] implémentation du premier module fonctionnel : Shell-Invoke (invoque un serveur reverse shell TCP sur la machine ciblé)</br>
-  Début du développement d'autres modules et d'une PostExploitation en Powershell (DataGrabber, ModeContagion)
+Début du développement d'autres modules et d'une PostExploitation en Powershell (DataGrabber, ModeContagion)</br>
   
