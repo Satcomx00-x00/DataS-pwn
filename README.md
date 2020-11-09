@@ -1,6 +1,6 @@
 # DataSpwn
 [**DataS-pwn PROJECT Link**](https://github.com/users/Satcomx00-x00/projects/5)</br>
-Python3 Dependenciess : </br>
+Python3 Dependencies : </br>
 ``irc3``</br>
 ``multiprocessing``</br>
 ``socket``</br>
