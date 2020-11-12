@@ -10,5 +10,5 @@ Python3 Dependencies : </br>
 ``random``</br>
 ``pypsrp``</br>
 Server Needs : </br>
-  ``sudo apt install irssi tor python3 python-pip``</br>
+  ``sudo apt install irssi tor python3 python-pip inspircd``</br>
   ``pip3 install -r requierements.txt``</br>
