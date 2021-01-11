@@ -12,3 +12,5 @@ création planning </br>
   - [x] Installation de l'ESXI</br>
 03/01/2020
   - [x] PAYLOAD: Win Key retriever</br>
+  - [x] PAYLOAD: OS identification</br>
+  - [x] PAYLOAD: IP retriever</br>
