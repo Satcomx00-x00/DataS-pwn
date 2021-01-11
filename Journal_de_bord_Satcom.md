@@ -7,7 +7,7 @@ création planning </br>
   - [x] connexion du BOT au SERVER : ok :heavy_check_mark:</br>
   - [x] Niveau du dévleppement du squelette : ~70%</br>
   - [x] implémentation du premier module fonctionnel : Shell-Invoke (invoque un serveur reverse shell TCP sur la machine ciblé)</br>
-???  Début du développement d'autres modules et d'un LightPostExploitationTool en Powershell (DataGrabber, ModeContagion)</br>
+  - [ ] ???  Début du développement d'autres modules et d'un LightPostExploitationTool en Powershell (DataGrabber, ModeContagion)</br>
 18/12/2020
   - [x] Installation de l'ESXI</br>
 03/01/2020
